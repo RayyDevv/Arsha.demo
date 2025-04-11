@@ -1,2 +1,2 @@
-# Arsha.demo
-this is my first Git Repository
+# Arsha. demo
+This is my first Git Repository
